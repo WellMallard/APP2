@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">02EstadosActivity</string>
+    <string name="estados">Estados de una actividad</string>
+    <string name="siguiente">Actividad 2</string>
+</resources>
